@@ -1,0 +1,15 @@
+# ninja log v5
+8	1129	7393242945839914	ceva_autogen/timestamp	864d254e09f8727b
+8	1129	7393242945839914	C:/Users/Lenovo/Documents/ceva/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/ceva_autogen/timestamp	864d254e09f8727b
+8	1129	7393242945839914	C:/Users/Lenovo/Documents/ceva/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/ceva_autogen/mocs_compilation.cpp	864d254e09f8727b
+8	1129	7393242945839914	ceva_autogen/mocs_compilation.cpp	864d254e09f8727b
+1155	5029	7393242985570203	CMakeFiles/ceva.dir/ceva_autogen/mocs_compilation.cpp.obj	c7d94b3636c6a346
+1130	5036	7393242985767210	CMakeFiles/ceva.dir/main.cpp.obj	57188964a8271d83
+38	2536	7393246300571211	ceva_autogen/timestamp	864d254e09f8727b
+38	2536	7393246300571211	ceva_autogen/mocs_compilation.cpp	864d254e09f8727b
+38	2536	7393246300571211	C:/Users/Lenovo/Documents/ceva/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/ceva_autogen/timestamp	864d254e09f8727b
+38	2536	7393246300571211	C:/Users/Lenovo/Documents/ceva/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/ceva_autogen/mocs_compilation.cpp	864d254e09f8727b
+2548	6433	7393246340566481	CMakeFiles/ceva.dir/ceva_autogen/mocs_compilation.cpp.obj	c7d94b3636c6a346
+2559	6552	7393246341766030	CMakeFiles/ceva.dir/widget.cpp.obj	94ef04f335f482f4
+2537	6636	7393246342660805	CMakeFiles/ceva.dir/main.cpp.obj	57188964a8271d83
+6637	7044	7393246346230740	ceva.exe	779e5b0d8ef3e2b4
